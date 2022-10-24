@@ -1,2 +1,2 @@
 # DraggableNavigationMenuInHTML-CSS-JavaScript
- Draggable Navigation Menu In HTML, CSS & JavaScript
+ Draggable Navigation Menu In HTML, CSS & JavaScript by CodingLab.
